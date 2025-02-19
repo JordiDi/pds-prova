@@ -1,1 +1,1 @@
-# pds-prova
+AQUEST ES EL README D'EN JORDI :D
